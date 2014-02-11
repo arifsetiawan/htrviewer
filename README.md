@@ -16,4 +16,6 @@ This code use [GLUT from Nate Robbins](http://user.xmission.com/~nate/glut.html)
 
 Using command line, type the following then enter
 
-`HTRViewer.exe fight_a.htr`
+```
+HTRViewer.exe fight_a.htr
+```
